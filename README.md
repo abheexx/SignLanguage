@@ -65,11 +65,6 @@ python train.py --epochs 50 --batch_size 32
 └── requirements.txt    # Project dependencies
 ```
 
-## 📸 Sample Output
-[Demo GIF will be added here]
 
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details. 
